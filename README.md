@@ -10,7 +10,6 @@
 
 3. kemudian **save as** di folder yang kamu suka.
 
-![02.png](/gambar/02.png)
     
 jangan lupa untuk penamaan **"nama file.py"**
 
@@ -29,7 +28,6 @@ untuk output ketik `print()`
 
 6. masukan identitas user klik enter
 
-![07.png](/gambar/07.png)
 
 7. selamat biodata sudah berjalan.
 
